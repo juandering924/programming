@@ -17,15 +17,11 @@ function draw() {
   
 textSize(32)
 text('Got.EEE', 150, 120);}
-	function mousePressed() {
-  if (value === 0) {
-    value = 255;
-  } else {
-    value = 0;
 
 
 
 
 
-  ; // center of canvas, 20px dia
+
+   // center of canvas, 20px dia
 
